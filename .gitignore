@@ -1,0 +1,17 @@
+# Build outputs
+build/
+
+# C/C++ artifacts
+*.exe
+*.obj
+*.obj.d
+*.o
+*.a
+*.dll
+*.pdb
+
+# VS Code local settings
+.vscode/
+
+# Runtime save data
+snake_save.txt
